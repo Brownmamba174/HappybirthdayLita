@@ -30,15 +30,22 @@ body {
 
 .one {
   font-size: 4.5rem;
+  color: #6F8FAF
 }
 
 .two {
   font-size: 1.2rem;
   font-weight: lighter;
+  color: #6F8FAF
 }
 
 .three {
   font-size: 3rem;
+  color: #6F8FAF
+}
+
+.hbd-chatbox {
+  color: #6F8FAF
 }
 
 .four .text-box {
@@ -74,6 +81,7 @@ body {
   left: 0;
   position: absolute;
   right: 0;
+  color: #6F8FAF
 }
 
 .idea-3 strong {
@@ -218,6 +226,7 @@ body {
 .nine p {
   font-size: 2rem;
   font-weight: lighter;
+  color: #6F8FAF
 }
 
 #replay {
